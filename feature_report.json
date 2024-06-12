@@ -1,0 +1,10 @@
+[
+    {
+        "ruta del archivo": "D:\\IBK\\Proyectos\\documnetadorfeatures\\CerrarSesion.feature",
+        "tags": [
+            "@PopupCerrarSesion",
+            "@CLOSE_SESSION1"
+        ],
+        "scenario": "[HAPPY PATH] Usuario espera primer popup y dar click en cerrar sesion"
+    }
+]
