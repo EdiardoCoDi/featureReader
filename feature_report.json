@@ -1,10 +1,24 @@
 [
     {
-        "ruta del archivo": "D:\\IBK\\Proyectos\\documnetadorfeatures\\CerrarSesion.feature",
+        "ruta del archivo": "D:\\IBK\\Proyectos\\documnetadorfeatures\\test2\\Login.feature",
         "tags": [
-            "@PopupCerrarSesion",
-            "@CLOSE_SESSION1"
+            "@Automated",
+            "@Happy_path",
+            "@Functional_testing",
+            "@MilesRegression",
+            "@regressionTest",
+            "@LoginTest"
         ],
-        "scenario": "[HAPPY PATH] Usuario espera primer popup y dar click en cerrar sesion"
+        "scenario": "[HAPPY PATH] Validar el ingreso con diferentes tipo de documento - Usuario existente"
+    },
+    {
+        "ruta del archivo": "D:\\IBK\\Proyectos\\documnetadorfeatures\\test2\\Login.feature",
+        "tags": [
+            "@Automated",
+            "@Happy_path",
+            "@Functional_testing",
+            "@MilesRegression"
+        ],
+        "scenario": "[HAPPY PATH] Validar el ingreso a Mi cuenta"
     }
 ]
